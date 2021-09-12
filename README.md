@@ -16,13 +16,9 @@
 <h1></h1>
 <p align="center">
  <a href="#">
- <img src="https://discord.c99.nl/widget/theme-1/568093374662311956.png"></a>
+ <img src="https://discord.c99.nl/widget/theme-1/456124229281382401.png"></a>
  </a>
  <br>
-<p align="center">
- <a href="https://top.gg/bot/706144670807228568">
- <img src="https://top.gg/api/widget/status/706144670807228568.svg"/>
- </a>
  <br>
 <p align="center">
  <a href="#">
