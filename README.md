@@ -1,5 +1,5 @@
 <h2><b>🥫 My Name is Zerko27dev</b></h2>
-<p>🪄 My Hobby: Coding, Watch Anime and sleeping</p>
+<p>💡 My Hobby: Coding, Watch Anime and sleeping</p>
 <p>📝 Currently Learning: <bold>JavaScript</bold></p>
 <p>🖋️ My Main Language: JavaScript</p>
 <p>😺 I like to code</p>
@@ -28,7 +28,7 @@
 <p align="center">
     <a href="#">
     <p><b>Github Stats 🎲<b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Zerko27dev&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Zerko27dev&include_all_commits=true&count_private=true&theme=dark&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
   </a>
   <br>
 <p align="center">
