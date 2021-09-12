@@ -16,7 +16,7 @@
 <h1></h1>
 <p align="center">
  <a href="#">
- <img src="https://discord.c99.nl/widget/theme-1/456124229281382401.png"></a>
+ <img src="https://discord.c99.nl/widget/theme-3/456124229281382401.png"></a>
  </a>
  <br>
  <br>
