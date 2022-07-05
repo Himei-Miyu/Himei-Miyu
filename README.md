@@ -1,7 +1,7 @@
-<h2><b>🥫 My Name is Zerko27dev</b></h2>
+<h2><b>🥫 My Name is Miyu</b></h2>
 <p>💡 My Hobby: Coding, Watch Anime and sleeping</p>
-<p>📝 Currently Learning: <bold>JavaScript</bold></p>
-<p>🖋️ My Main Language: JavaScript</p>
+<p>📝 Currently Learning: <bold>TypeScript</bold></p>
+<p>🖋️ My Main Language: TypeScript</p>
 <p>😺 I like to code</p>
 <h4><b>🔧 My Tools List</b></h4>
 
