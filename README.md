@@ -12,7 +12,7 @@
 
 - [My Discord Bot]()
 - [My Discord Server]()
-- [My Omlet Arcade](https://omlet.gg/Zerko27)
+- [My Omlet Arcade](https://omlet.gg/himei_miyu)
 <h1></h1>
 <p align="center">
  <a href="#">
@@ -22,27 +22,27 @@
  <br>
 <p align="center">
  <a href="#">
- <img src="https://komarev.com/ghpvc/?username=Zerko27dev&label=PROFILE+VIEWS"/>
+ <img src="https://komarev.com/ghpvc/?username=Miyu-Tenshi&label=PROFILE+VIEWS"/>
  </a>
  <br>
 <p align="center">
     <a href="#">
     <p><b>Github Stats 🎲<b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Zerko27dev&include_all_commits=true&count_private=true&theme=dark&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
-    <img scr="https://github.com/zerko27dev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Miyu-Tenshi&include_all_commits=true&count_private=true&theme=dark&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
+    <img scr="https://github.com/Miyu-Tenshi/github-readme-stats">
 </a>
   <br>
 <p align="center">
     <a href="#">
     <p><b>Top Language 🌳<b></p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerko27dev&layout=compactlor=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyu-Tenshi&layout=compactlor=2c98ff&icon_color=2c98ff&bg_color=0d1117"/>
   </a>
   <br>
 <p align="center">
     <a href="#">
     <p><b>Trophy 🏆<b></p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Zerko27dev&theme=discord"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Miyu-Tenshi&theme=discord"/>
   </a>
   <br>
 
-<h6><b>©Copyright By Zerko27 - 2021</b></h6>
+<h6><b>©Copyright By Miyu-Tenshi - 2022</b></h6>
