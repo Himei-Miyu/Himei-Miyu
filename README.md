@@ -1,9 +1,10 @@
-<h2><b>🥫 My Name is Miyu</b></h2>
-<p>💡 My Hobby: Coding, Watch Anime and sleeping</p>
-<p>📝 Currently Learning: <bold>TypeScript</bold></p>
-<p>🖋️ My Main Language: TypeScript</p>
-<p>😺 I like to code</p>
-<h4><b>🔧 My Tools List</b></h4>
+# 
+# <p style="text-align: center;font: bold 3.5rem Tohoma, sans-serif;color:#f00;">Miyu-Tenshi</p>
+
+<div style="display:flex;justify-content: space-around">
+<H3 style="display:inline;">Backend Dev</H3>
+<H3 style="display: inline;text-align:end">Frontend Dev</H3>
+</div>
 
 - [Termux](https://termux.com)
 - [Visual Studio Code](https://code.visualstudio.com)
