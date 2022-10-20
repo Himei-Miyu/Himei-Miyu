@@ -1,11 +1,8 @@
 # 
-# <p align=center>Miyu-Tenshi</p>
+# <p accesskey="h" align=center>Miyu-Tenshi</p>
 
 ## Backend Dev Frontend Dev
-```JavaScript
-var message = "Hello World!";
-alert(message);
-```
+
 https://gist.github.com/ChrisTollefson/a3af6d902a74a0afd1c2d79aadc9bb3f#
 
 ### <p align=center>languages</p>
