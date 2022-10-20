@@ -1,11 +1,14 @@
 # 
-# <p style="text-align: center;font: bold 3.5rem Tohoma, sans-serif;color:#f00;">Miyu-Tenshi</p>
+# <p align=center>Miyu-Tenshi</p>
 
-<div style="display:flex;justify-content: space-around">
-<H3 style="display:inline;">Backend Dev</H3>
-<H3 style="display: inline;text-align:end">Frontend Dev</H3>
-</div>
+## Backend Dev Frontend Dev
+```JavaScript
+var message = "Hello World!";
+alert(message);
+```
+https://gist.github.com/ChrisTollefson/a3af6d902a74a0afd1c2d79aadc9bb3f#
 
+### <p align=center>languages</p>
 - [Termux](https://termux.com)
 - [Visual Studio Code](https://code.visualstudio.com)
 
