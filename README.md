@@ -1,7 +1,7 @@
 <div align=center>
 
 # 
-# Hi, i'm Miyu Tenshi
+# Hi, i'm Himei Miyu
 
 <details>
 <summary align=center>My skills</summary>
