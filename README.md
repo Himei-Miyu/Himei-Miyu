@@ -8,19 +8,19 @@
 
 ### **Languages**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=0af)
-![Shell](https://img.shields.io/badge/-Shell-000?&logo=shell&logoColor=)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=)
-![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=gulp&logoColor=)
-![Json](https://img.shields.io/badge/-Json-000?&logo=json&logoColor=)
+![JAVASCRIPT]
+![HTML5]
+![TYPESCRIPT]
+![CSS3]
+![SHELL]
+![SASS]
+![GULP]
+![JSON]
 
 ### **Databases**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=)
-![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariaDB&logoColor=)
+![MONGODB]
+![MARIADB]
 
 ### **Frameworks**
 
@@ -44,22 +44,38 @@
 </details>
 </div>
 
----
+<div align="center">
 
-[<p align=center><img src="https://github-profile-trophy.vercel.app/?username=Himei-Miyu&theme=discord"/></p>][#]
+![GITHUB_TROPHY]
+![GITHUB_ACTIVITY_GRAPH]
+![MOST_USED_LANGUAGES]
+![GITHUB_STATS]
+![GITHUB_STREAK_STATS]
 
----
+</div>
 
-[<p align="center"><img align="center" title="Activity Graph" alt="Miyu-Tenshi" src="https://activity-graph.herokuapp.com/graph?username=Himei-Miyu&&theme=xcode"/></p>][#]
+![DISCORD_PROFILE_STATUS]
 
----
-
-[<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himei-Miyu&show_icons=true&locale=en&layout=compact&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api?username=Himei-Miyu&show_icons=true&locale=en&theme=tokyonight" /><img align="center" alt="Miyu-Tenshi" src="https://github-readme-streak-stats.herokuapp.com/?user=Himei-Miyu&&theme=tokyonight" /></p>][#]
-
----
-
-<img src="https://discord.c99.nl/widget/theme-3/456124229281382401.png">
-
-<img src="https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS"/>
+![GITHUB_PROFILE_VIEWS]
 
 &copy; 2024 Himei-Miyu
+
+[//]: ICON
+[JAVASCRIPT]: https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=
+[HTML5]: https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=
+[TYPESCRIPT]: https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=
+[CSS3]: https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=0af
+[SHELL]: https://img.shields.io/badge/-Shell-000?&logo=shell&logoColor=
+[SASS]: https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=
+[GULP]: https://img.shields.io/badge/-Gulp-000?&logo=gulp&logoColor=
+[JSON]: https://img.shields.io/badge/-Json-000?&logo=json&logoColor=
+[MONGODB]: https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=
+[MARIADB]: https://img.shields.io/badge/-MariaDB-000?&logo=mariaDB&logoColor=
+[//]: BANNER
+[DISCORD_PROFILE_STATUS]: https://discord.c99.nl/widget/theme-3/456124229281382401.png
+[GITHUB_PROFILE_VIEWS]: https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS
+[MOST_USED_LANGUAGES]: https://github-readme-stats.vercel.app/api/top-langs?username=Himei-Miyu&show_icons=true&locale=en&layout=compact&theme=tokyonight
+[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=Himei-Miyu&show_icons=true&locale=en&theme=tokyonight
+[GITHUB_STREAK_STATS]: https://github-readme-streak-stats.herokuapp.com/?user=Himei-Miyu&&theme=tokyonight
+[GITHUB_ACTIVITY_GRAPH]: https://github-readme-activity-graph.vercel.app/graph?username=Himei-Miyu&theme=tokyo-night&hide_border=true&area=true
+[GITHUB_TROPHY]: https://github-profile-trophy.vercel.app/?username=Himei-Miyu&theme=discord
