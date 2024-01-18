@@ -46,15 +46,15 @@
 
 ---
 
-[<p align=center><img src="https://github-profile-trophy.vercel.app/?username=Himei-Miyu&theme=discord"/></p>][nolink]
+[<p align=center><img src="https://github-profile-trophy.vercel.app/?username=Himei-Miyu&theme=discord"/></p>][#]
 
 ---
 
-[<p align="center"><img align="center" title="Activity Graph" alt="Miyu-Tenshi" src="https://activity-graph.herokuapp.com/graph?username=Himei-Miyu&&theme=xcode"/></p>][nolink]
+[<p align="center"><img align="center" title="Activity Graph" alt="Miyu-Tenshi" src="https://activity-graph.herokuapp.com/graph?username=Himei-Miyu&&theme=xcode"/></p>][#]
 
 ---
 
-[<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himei-Miyu&show_icons=true&locale=en&layout=compact&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api?username=Himei-Miyu&show_icons=true&locale=en&theme=tokyonight" /><img align="center" alt="Miyu-Tenshi" src="https://github-readme-streak-stats.herokuapp.com/?user=Himei-Miyu&&theme=tokyonight" /></p>][nolink]
+[<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himei-Miyu&show_icons=true&locale=en&layout=compact&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api?username=Himei-Miyu&show_icons=true&locale=en&theme=tokyonight" /><img align="center" alt="Miyu-Tenshi" src="https://github-readme-streak-stats.herokuapp.com/?user=Himei-Miyu&&theme=tokyonight" /></p>][#]
 
 ---
 
@@ -62,6 +62,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS"/>
 
-###### &copy; 2024 Himei-Miyu
-
-[nolink]: #
+&copy; 2024 Himei-Miyu
