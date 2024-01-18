@@ -1,4 +1,4 @@
-# Hi, i'm Himei Miyu
+# Hi, i'm Himei Miyu ![GITHUB_PROFILE_VIEWS]
 
 <details>
 <summary align=center>My skills</summary>
@@ -12,22 +12,20 @@
 </details>
 
 <div align="center">
-<div>
-
-![MOST_USED_LANGUAGES]
-![GITHUB_STATS]
-![GITHUB_STREAK_STATS]
-
-</div>
-
-![GITHUB_TROPHY]
-![GITHUB_ACTIVITY_GRAPH]
-
-</div>
 
 ![DISCORD_PROFILE_STATUS]
 
-![GITHUB_PROFILE_VIEWS]
+![MOST_USED_LANGUAGES]
+
+![GITHUB_STATS]
+
+![GITHUB_STREAK_STATS]
+
+![GITHUB_TROPHY]
+
+![GITHUB_ACTIVITY_GRAPH]
+
+</div>
 
 &copy; 2024 Himei-Miyu
 
