@@ -12,12 +12,16 @@
 </details>
 
 <div align="center">
+<div>
 
-![GITHUB_TROPHY]
-![GITHUB_ACTIVITY_GRAPH]
 ![MOST_USED_LANGUAGES]
 ![GITHUB_STATS]
 ![GITHUB_STREAK_STATS]
+
+</div>
+
+![GITHUB_TROPHY]
+![GITHUB_ACTIVITY_GRAPH]
 
 </div>
 
