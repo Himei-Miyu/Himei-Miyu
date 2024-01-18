@@ -62,6 +62,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS"/>
 
-###### &copy; 2023 Himei-Miyu
+###### &copy; 2024 Himei-Miyu
 
 [nolink]: #
