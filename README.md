@@ -1,48 +1,15 @@
-<div align=center>
-
-# 
 # Hi, i'm Himei Miyu
 
 <details>
 <summary align=center>My skills</summary>
 
-### **Languages**
-
-![JAVASCRIPT]
-![HTML5]
-![TYPESCRIPT]
-![CSS3]
-![SHELL]
-![SASS]
-![GULP]
-![JSON]
-
-### **Databases**
-
-![MONGODB]
-![MARIADB]
-
-### **Frameworks**
-
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=node.js&logoColor=)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=)
-![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss&logoColor=)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte&logoColor=)
-
-### **Tools**
-
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=0af)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=)
-
-### **Operation System**
-
-![Window10](https://img.shields.io/badge/-Window_10-000?&logo=windows&logoColor=0af)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=ef0)
-![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=0e0)
+### Languages : ![JAVASCRIPT]![HTML5]![TYPESCRIPT]![CSS3]![SHELL]![SASS]![GULP]![JSON]
+### Databases : ![MONGODB]![MARIADB]
+### Frameworks : ![NODEJS]![EXPRESS]![REACT]![TAILWINDCSS]![SVELTE]
+### Tools : ![VSCODE]![GIT]
+### Operation System : ![WINDOW10]![LINUX]![ANDROID]
 
 </details>
-</div>
 
 <div align="center">
 
@@ -71,6 +38,16 @@
 [JSON]: https://img.shields.io/badge/-Json-000?&logo=json&logoColor=
 [MONGODB]: https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=
 [MARIADB]: https://img.shields.io/badge/-MariaDB-000?&logo=mariaDB&logoColor=
+[NODEJS]: https://img.shields.io/badge/-NodeJS-000?&logo=node.js&logoColor=
+[EXPRESS]: https://img.shields.io/badge/-Express-000?&logo=express&logoColor=
+[REACT]: https://img.shields.io/badge/-React-000?&logo=react&logoColor=
+[TAILWINDCSS]: https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss&logoColor=
+[SVELTE]: https://img.shields.io/badge/-Svelte-000?&logo=svelte&logoColor=
+[VSCODE]: https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=0af
+[GIT]: https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=
+[WINDOW10]: https://img.shields.io/badge/-Window_10-000?&logo=windows&logoColor=0af
+[LINUX]: https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=ef0
+[ANDROID]: https://img.shields.io/badge/-Android-000?&logo=android&logoColor=0e0
 [//]: BANNER
 [DISCORD_PROFILE_STATUS]: https://discord.c99.nl/widget/theme-3/456124229281382401.png
 [GITHUB_PROFILE_VIEWS]: https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS
