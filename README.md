@@ -3,9 +3,9 @@
 <details>
 <summary align=center>My skills</summary>
 
-### Languages : ![JAVASCRIPT]![HTML5]![TYPESCRIPT]![CSS3]![SHELL]![SASS]![GULP]![JSON]
-### Databases : ![MONGODB]![MARIADB]
-### Frameworks : ![NODEJS]![EXPRESS]![REACT]![TAILWINDCSS]![SVELTE]
+### Languages : ![JAVASCRIPT]![HTML5]![TYPESCRIPT]![CSS3]![SHELL]![JSON]
+### Databases : ![MONGODB]
+### Frameworks : ![NODEJS]![EXPRESS]![TAILWINDCSS]![SOLID]
 ### Tools : ![VSCODE]![GIT]
 ### Operation System : ![WINDOW10]![LINUX]![ANDROID]
 
@@ -35,16 +35,12 @@
 [TYPESCRIPT]: https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=
 [CSS3]: https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=0af
 [SHELL]: https://img.shields.io/badge/-Shell-000?&logo=shell&logoColor=
-[SASS]: https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=
-[GULP]: https://img.shields.io/badge/-Gulp-000?&logo=gulp&logoColor=
 [JSON]: https://img.shields.io/badge/-Json-000?&logo=json&logoColor=
 [MONGODB]: https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=
-[MARIADB]: https://img.shields.io/badge/-MariaDB-000?&logo=mariaDB&logoColor=
 [NODEJS]: https://img.shields.io/badge/-NodeJS-000?&logo=node.js&logoColor=
 [EXPRESS]: https://img.shields.io/badge/-Express-000?&logo=express&logoColor=
-[REACT]: https://img.shields.io/badge/-React-000?&logo=react&logoColor=
 [TAILWINDCSS]: https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss&logoColor=
-[SVELTE]: https://img.shields.io/badge/-Svelte-000?&logo=svelte&logoColor=
+[SOLID]: https://img.shields.io/badge/-solid-000?logo=Solid&logoColor=2C4F7C
 [VSCODE]: https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=0af
 [GIT]: https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=
 [WINDOW10]: https://img.shields.io/badge/-Window_10-000?&logo=windows&logoColor=0af
