@@ -51,6 +51,6 @@
 [GITHUB_PROFILE_VIEWS]: https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS
 [MOST_USED_LANGUAGES]: https://github-readme-stats.vercel.app/api/top-langs?username=Himei-Miyu&show_icons=true&locale=en&layout=compact&theme=tokyonight
 [GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=Himei-Miyu&show_icons=true&locale=en&theme=tokyonight
-[GITHUB_STREAK_STATS]: https://github-readme-streak-stats.herokuapp.com/?user=Himei-Miyu&&theme=tokyonight
+[GITHUB_STREAK_STATS]: https://streak-stats.demolab.com/?user=Himei-Miyu&&theme=tokyonight
 [GITHUB_ACTIVITY_GRAPH]: https://github-readme-activity-graph.vercel.app/graph?username=Himei-Miyu&theme=tokyo-night&hide_border=true&area=true
 [GITHUB_TROPHY]: https://github-profile-trophy.vercel.app/?username=Himei-Miyu&theme=discord
