@@ -27,7 +27,7 @@
 
 </div>
 
-&copy; 2024 Himei-Miyu
+&copy; 2025 Himei-Miyu
 
 [//]: ICON
 [JAVASCRIPT]: https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=
