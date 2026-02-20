@@ -4,28 +4,20 @@
 
 Learning everyday
 
-<div align="left">
-
-## My Skill
-Languages : ![DEV-LANG]
-
-Database : ![DEV-DB]
-
-OS : ![DEV-OS]
-
-Framework : ![DEV-FRAMEWORK]
-
-Tools : ![DEV-TOOL]
-
-</div>
-
-![DISCORD_PROFILE_STATUS]
+## Skills
+|     My     |       Skill      |
+| :--------: | :--------------: |
+| Languages  | ![DEV-LANG]      |
+| Databases  | ![DEV-DB]        |
+| OS         | ![DEV-OS]        |
+| Framework  | ![DEV-FRAMEWORK] |
+| Tools      | ![DEV-TOOL]      |
 
 ![GITHUB_STREAK_STATS]
 
 ![GITHUB_PROFILE_VIEWS]
 
-&copy; 2026 Himei-Miyu
+###### &copy; 2026 Himei-Miyu
 </div>
 
 [//]: ICON
