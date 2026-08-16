@@ -13,10 +13,16 @@ Learning everyday
 | Framework  | ![DEV-FRAMEWORK] |
 | Tools      | ![DEV-TOOL]      |
 
+![MOST_USED_LANGUAGES]
+![GITHUB_STATS]
 ![GITHUB_STREAK_STATS]
-
+![GITHUB_ACTIVITY_GRAPH]
+<br>
+![GITHUB_TROPHY]
+<br>
 ![GITHUB_PROFILE_VIEWS]
-
+<br>
+![DISCORD_PROFILE_STATUS]
 ###### &copy; 2026 Himei-Miyu
 </div>
 
@@ -27,10 +33,10 @@ Learning everyday
 [DEV-FRAMEWORK]: https://skillicons.dev/icons?i=nodejs,express,tailwind,solidjs
 [DEV-TOOL]: https://skillicons.dev/icons?i=vscode,git,cloudflare
 [//]: BANNER
-[DISCORD_PROFILE_STATUS]: https://discord.c99.nl/widget/theme-3/456124229281382401.png
+[DISCORD_PROFILE_STATUS]: https://discord.c99.nl/widget/theme-2/405398961407655936.png
 [GITHUB_PROFILE_VIEWS]: https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS
-[MOST_USED_LANGUAGES]: https://github-readme-stats.vercel.app/api/top-langs?username=Himei-Miyu&show_icons=true&locale=en&layout=compact&theme=tokyonight
-[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=Himei-Miyu&show_icons=true&locale=en&theme=tokyonight
-[GITHUB_STREAK_STATS]: https://nirzak-streak-stats.vercel.app/?user=himei-miyu&theme=ambient_gradient&hide_border=true
-[GITHUB_ACTIVITY_GRAPH]: https://github-readme-activity-graph.vercel.app/graph?username=Himei-Miyu&theme=tokyo-night&hide_border=true&area=true
-[GITHUB_TROPHY]: https://github-profile-trophy.vercel.app/?username=Himei-Miyu&theme=discord
+[MOST_USED_LANGUAGES]: http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himei-miyu&theme=transparent&animation=rgb-soft
+[GITHUB_STATS]: http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himei-miyu&theme=transparent&animation=rgb-soft
+[GITHUB_STREAK_STATS]: https://streak-stats.demolab.com?user=himei-miyu&theme=tokyonight-duo&hide_border=true&border_radius=0.5&date_format=j%20M%5B%20Y%5D
+[GITHUB_ACTIVITY_GRAPH]: http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himei-miyu&theme=transparent&animation=rgb-soft&name=Himei%20Miyu
+[GITHUB_TROPHY]: https://trophygithubreadmelang.cybee.dpdns.org/?username=himei-miyu&theme=tokyonight&row=2&column=5&margin-h=5&margin-w=5&no-bg=true&no-frame=true
