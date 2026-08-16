@@ -7,22 +7,22 @@ Learning everyday
 ## Skills
 |     My     |       Skill      |
 | :--------: | :--------------: |
-| Languages  | ![DEV-LANG]      |
-| Databases  | ![DEV-DB]        |
-| OS         | ![DEV-OS]        |
-| Framework  | ![DEV-FRAMEWORK] |
-| Tools      | ![DEV-TOOL]      |
+| Languages  | [![DEV-LANG]](https://github.com/Himei-Miyu)      |
+| Databases  | [![DEV-DB]](https://github.com/Himei-Miyu)        |
+| OS         | [![DEV-OS]](https://github.com/Himei-Miyu)        |
+| Framework  | [![DEV-FRAMEWORK]](https://github.com/Himei-Miyu) |
+| Tools      | [![DEV-TOOL]](https://github.com/Himei-Miyu)      |
 
-![MOST_USED_LANGUAGES]
-![GITHUB_STATS]
-![GITHUB_STREAK_STATS]
-![GITHUB_ACTIVITY_GRAPH]
+[![MOST_USED_LANGUAGES]](https://github.com/Himei-Miyu)
+[![GITHUB_STATS]](https://github.com/Himei-Miyu)
+[![GITHUB_STREAK_STATS]](https://github.com/Himei-Miyu)
+[![GITHUB_ACTIVITY_GRAPH]](https://github.com/Himei-Miyu)
 <br>
-![GITHUB_TROPHY]
+[![GITHUB_TROPHY]](https://github.com/Himei-Miyu)
 <br>
-![GITHUB_PROFILE_VIEWS]
+[![GITHUB_PROFILE_VIEWS]](https://github.com/Himei-Miyu)
 <br>
-![DISCORD_PROFILE_STATUS]
+[![DISCORD_PROFILE_STATUS]](https://github.com/Himei-Miyu)
 ###### &copy; 2026 Himei-Miyu
 </div>
 
