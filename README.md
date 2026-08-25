@@ -31,7 +31,7 @@ Learning everyday
 [DEV-DB]: https://skillicons.dev/icons?i=mongodb,redis
 [DEV-OS]: https://skillicons.dev/icons?i=windows,linux,arch,raspberrypi
 [DEV-FRAMEWORK]: https://skillicons.dev/icons?i=nodejs,express,tailwind,solidjs
-[DEV-TOOL]: https://skillicons.dev/icons?i=vscode,git,cloudflare
+[DEV-TOOL]: https://skillicons.dev/icons?i=vscode,bun,git,cloudflare
 [//]: BANNER
 [DISCORD_PROFILE_STATUS]: https://discord.c99.nl/widget/theme-2/405398961407655936.png
 [GITHUB_PROFILE_VIEWS]: https://komarev.com/ghpvc/?username=Himei-Miyu&label=PROFILE+VIEWS
